@@ -48,7 +48,7 @@ intel-scene-classifier/
 
 ```bash
 git clone https://github.com/HardikVasava/intel-image-classifier-dl-app.git
-cd intel-scene-classifier
+cd intel-image-classifier-dl-app
 ```
 
 ### 2. Backend Setup (Flask)
